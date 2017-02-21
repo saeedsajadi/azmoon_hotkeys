@@ -1,5 +1,6 @@
 ﻿<?php
 //thanks a lot
+//thanks a lot khodet
 $keyboard_keys = [
     '',
     'CTRL',
