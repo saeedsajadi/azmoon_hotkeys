@@ -76,6 +76,20 @@ $keyboard_keys = [
     'X',
     'Y',
     'Z',
+    //insert farsi
+    'َش',
+    'س',
+    'ی',
+    'ب',
+    'ل',
+    'ا',
+    'ت',
+    'ن',
+    'م',
+    'ک',
+    'گ',
+    'ظ',
+    'ط',
 ];
 include_once ('config.php');
 $categories = $conn->query('SELECT * FROM categories');
